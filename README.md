@@ -21,8 +21,8 @@ A modern, responsive, and beginner-friendly landing page for a fictional shoe br
 ## 📂 Folder Structure
 
 ```
-/shoe-landing-page/
-│
+
+
 ├── index.html
 ├── style.css
 ├── script.js
