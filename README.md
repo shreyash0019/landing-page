@@ -45,19 +45,6 @@ Toggle between light and dark themes using the ☀️/🌙 button at the top rig
 
 ---
 
-## ✉️ Contact (Fake Info)
-
-- 📧 Email: support@shoestore.com  
-- 📞 Phone: +91-99999-99999  
-- 📍 Location: Hyderabad, Telengana, India  
-
----
-
-## 🌐 Social Media (Fake Icons)
-
-- 🔵 Facebook: [facebook.com/shoestore](#)
-- 🕘 Instagram: [instagram.com/shoestore](#)
-- 🟢 WhatsApp: [wa.me/9999999999](#)
 
 ---
 
