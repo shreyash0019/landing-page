@@ -61,10 +61,7 @@ Toggle between light and dark themes using the ☀️/🌙 button at the top rig
 
 ---
 
-## 🛠️ Author
 
-**Shreyash Ingle**  
-Frontend Developer | HTML | CSS | JavaScript
 
 ---
 
