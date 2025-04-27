@@ -68,8 +68,5 @@ Frontend Developer | HTML | CSS | JavaScript
 
 ---
 
-## 📓 License
-
-This project is for educational and demonstration purposes only.
 
 
